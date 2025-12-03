@@ -1,1 +1,25 @@
-
+{
+  "version": "v39.00",
+  "last_updated": "2025-12-3",
+  "offsets": {
+    "UWorld": "0x172C8CB8",
+    "UWorldDecrypt": "0x676DBEAB",
+    "GameState": "0x1D0",
+    "AcknowledgedPawn": "0x358",
+    "PlayerArray": "0x2C8",
+    "OwningGameInstance": "0x248",
+    "LocalPlayers": "0x38",
+    "PlayerController": "0x30",
+    "PlayerState": "0x2D0",
+    "RootComponent": "0x1B0",
+    "PawnPrivate": "0x328",
+    "Mesh": "0x330",
+    "BoneArray": "0x5F0",
+    "ComponentToWorld": "0x1E0",
+    "CamLocation": "0x178",
+    "CamRotation": "0x188",
+    "TeamIndex": "0x11A9",
+    "Platform": "0x440",
+    "PlayerName": "0x9F8"
+  }
+}
